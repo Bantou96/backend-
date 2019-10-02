@@ -1,0 +1,5 @@
+current directory: /var/lib/postgresql/myrailsapp/vendor/bundle/gems/childprocess-2.0.0/ext
+/usr/local/rvm/rubies/ruby-2.5.1/bin/ruby mkrf_conf.rb
+
+current directory: /var/lib/postgresql/myrailsapp/vendor/bundle/gems/childprocess-2.0.0/ext
+/usr/local/rvm/rubies/ruby-2.5.1/bin/ruby -rrubygems /var/lib/postgresql/myrailsapp/vendor/bundle/gems/rake-12.3.3/exe/rake RUBYARCHDIR\=/var/lib/postgresql/myrailsapp/vendor/bundle/extensions/x86_64-linux/2.5.0/childprocess-2.0.0 RUBYLIBDIR\=/var/lib/postgresql/myrailsapp/vendor/bundle/extensions/x86_64-linux/2.5.0/childprocess-2.0.0
