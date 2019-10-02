@@ -1,0 +1,15 @@
+current directory: /var/lib/postgresql/myrailsapp/vendor/bundle/ruby/2.5.0/gems/bindex-0.8.1/ext/skiptrace
+/usr/local/rvm/rubies/ruby-2.5.1/bin/ruby -I /usr/local/rvm/rubies/ruby-2.5.1/lib/ruby/site_ruby/2.5.0 -r ./siteconf20191002-59216-1tljz2o.rb extconf.rb
+creating Makefile
+
+current directory: /var/lib/postgresql/myrailsapp/vendor/bundle/ruby/2.5.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" clean
+
+current directory: /var/lib/postgresql/myrailsapp/vendor/bundle/ruby/2.5.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR="
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.so
+
+current directory: /var/lib/postgresql/myrailsapp/vendor/bundle/ruby/2.5.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" install
+/usr/bin/install -m 0755 cruby.so ./.gem.20191002-59216-1ww8qdx/skiptrace/internal
